@@ -1,0 +1,2 @@
+#Aqui se guardan los archivos que no queremos que se añadan nunca a nuestro GitHub
+*.tmp
